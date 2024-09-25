@@ -22,10 +22,10 @@ miRNA seed matching counter for miRanda output
 
    ```bash
    git clone https://github.com/yourusername/miranda-seed-complementarity-counter.git
-   cd miranda-seed-complementarity-counter```
+   cd miranda-seed-complementarity-counter
 2. **Example command**
    ```bash
-   python count_perfect_complementary_seed_miranda.py <miranda_output_file> <selected_transcripts_file>```
+   python count_perfect_complementary_seed_miranda.py <miranda_output_file> <selected_transcripts_file>
 3. **Example output**
    ```bash
-   Read Sequence:SMEST048694001.1 gene=SMESG000048694.1(987 nt) - Complementary nucleotides in Seed: 6 (Wobble pairings in Seed: 0)```
+   Read Sequence:SMEST048694001.1 gene=SMESG000048694.1(987 nt) - Complementary nucleotides in Seed: 6 (Wobble pairings in Seed: 0)
