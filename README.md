@@ -18,7 +18,7 @@ miRNA seed matching counter for miRanda output
 
 ## Usage
 
-1. **Clone the repository:**
+1. **Clone the repository**
 
    ```bash
    git clone https://github.com/yourusername/miranda-seed-complementarity-counter.git
